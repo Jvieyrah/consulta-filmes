@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.betrybe.consultafilmes.Queries6Test
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.009 s <<< FAILURE! - in null
+com.betrybe.consultafilmes.Queries6Test.itensDuplicados  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <1> but was: <0>
+	at com.betrybe.consultafilmes.Queries6Test.itensDuplicados(Queries6Test.java:52)
+
+com.betrybe.consultafilmes.Queries6Test.algunsFilmesAtendemAoRequisito  Time elapsed: 0.006 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <[Coração Valente (1995), Rocky II: A Revanche (1979), O Grande Ditador (1940)]> but was: <[]>
+	at com.betrybe.consultafilmes.Queries6Test.testarConsulta(Queries6Test.java:58)
+	at com.betrybe.consultafilmes.Queries6Test.algunsFilmesAtendemAoRequisito(Queries6Test.java:35)
+

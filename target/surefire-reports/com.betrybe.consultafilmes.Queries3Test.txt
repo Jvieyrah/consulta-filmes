@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.betrybe.consultafilmes.Queries3Test
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! - in null
+com.betrybe.consultafilmes.Queries3Test.consultaComFiltrosValidos  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <{Leonardo DiCaprio=[Django Livre, Não Olhe para Cima]}> but was: <{}>
+	at com.betrybe.consultafilmes.Queries3Test.testarConsulta(Queries3Test.java:35)
+	at com.betrybe.consultafilmes.Queries3Test.consultaComFiltrosValidos(Queries3Test.java:24)
+

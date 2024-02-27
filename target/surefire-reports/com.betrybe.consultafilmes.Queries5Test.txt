@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.betrybe.consultafilmes.Queries5Test
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.021 s <<< FAILURE! - in null
+com.betrybe.consultafilmes.Queries5Test.itensDuplicados  Time elapsed: 0.011 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <1> but was: <0>
+	at com.betrybe.consultafilmes.Queries5Test.itensDuplicados(Queries5Test.java:66)
+
+com.betrybe.consultafilmes.Queries5Test.algunsAtoresAtendemAoRequisito  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <[Brad Pitt, Bruce Willis, Christoph Waltz, Diane Kruger, Eli Roth, Harvey Keitel, Jamie Foxx, John Travolta, Kerry Washington, Leonardo DiCaprio, Michael Fassbender, Mélanie Laurent, Samuel L. Jackson, Uma Thurman, Ving Rhames]> but was: <[]>
+	at com.betrybe.consultafilmes.Queries5Test.testarConsulta(Queries5Test.java:79)
+	at com.betrybe.consultafilmes.Queries5Test.algunsAtoresAtendemAoRequisito(Queries5Test.java:32)
+

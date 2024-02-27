@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-consulta-filmes/src/main/java/com/betrybe/consultafilmes/Movie.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-consulta-filmes/src/main/java/com/betrybe/consultafilmes/Queries.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-consulta-filmes/src/main/java/com/betrybe/consultafilmes/Movies.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-consulta-filmes/src/main/java/com/betrybe/consultafilmes/MovieConstructor.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-exercicio-consulta-filmes/src/main/java/com/betrybe/consultafilmes/Main.java">
+</file>
+</checkstyle>

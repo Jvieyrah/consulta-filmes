@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.betrybe.consultafilmes.Queries7Test
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.006 s <<< FAILURE! - in null
+com.betrybe.consultafilmes.Queries7Test.multiplasCategorias  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <{Aventura=[Homem-Aranha: Sem Volta Para Casa (2021)], Ação=[Homem-Aranha: Sem Volta Para Casa (2021)], Ficção científica=[Homem-Aranha: Sem Volta Para Casa (2021)]}> but was: <{}>
+	at com.betrybe.consultafilmes.Queries7Test.multiplasCategorias(Queries7Test.java:80)
+
+com.betrybe.consultafilmes.Queries7Test.algunsFilmesAtendemAoRequisito  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <{Comédia=[Não Olhe para Cima (2021), Space Jam (2021)], Ficção científica=[Não Olhe para Cima (2021), Space Jam (2021), Homem-Aranha: Sem Volta Para Casa (2021), Matrix Resurrections (2021)], Ação=[Matrix Resurrections (2021), Homem-Aranha: Sem Volta Para Casa (2021)], Animação=[Space Jam (2021)], Aventura=[Matrix Resurrections (2021), Homem-Aranha: Sem Volta Para Casa (2021)], Família=[Space Jam (2021)], Drama=[Não Olhe para Cima (2021)]}> but was: <{}>
+	at com.betrybe.consultafilmes.Queries7Test.testarConsulta(Queries7Test.java:93)
+	at com.betrybe.consultafilmes.Queries7Test.algunsFilmesAtendemAoRequisito(Queries7Test.java:36)
+

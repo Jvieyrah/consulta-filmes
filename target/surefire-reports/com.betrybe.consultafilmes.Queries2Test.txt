@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.betrybe.consultafilmes.Queries2Test
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! - in null
+com.betrybe.consultafilmes.Queries2Test.consultaComFiltrosValidos  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <[Alfred Molina, Benedict Cumberbatch, Jamie Foxx, Tom Holland, Zendaya]> but was: <[]>
+	at com.betrybe.consultafilmes.Queries2Test.testarConsulta(Queries2Test.java:33)
+	at com.betrybe.consultafilmes.Queries2Test.consultaComFiltrosValidos(Queries2Test.java:24)
+

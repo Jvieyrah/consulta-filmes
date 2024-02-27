@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.betrybe.consultafilmes.Queries4Test
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! - in null
+com.betrybe.consultafilmes.Queries4Test.algunsAtoresAtendemAoRequisito  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <[LeBron James, John Malkovich]> but was: <[]>
+	at com.betrybe.consultafilmes.Queries4Test.testarConsulta(Queries4Test.java:42)
+	at com.betrybe.consultafilmes.Queries4Test.algunsAtoresAtendemAoRequisito(Queries4Test.java:33)
+
